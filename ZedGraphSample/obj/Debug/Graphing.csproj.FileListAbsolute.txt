@@ -1,0 +1,9 @@
+E:\Visual Studio Projects\Graphing\ZedGraphSample\bin\Debug\ZedGraph.dll
+E:\Visual Studio Projects\Graphing\ZedGraphSample\obj\Debug\Graphing.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\Graphing\ZedGraphSample\obj\Debug\Graphing.csproj.GenerateResource.Cache
+E:\Visual Studio Projects\Graphing\ZedGraphSample\bin\Debug\Graphing.exe
+E:\Visual Studio Projects\Graphing\ZedGraphSample\bin\Debug\Graphing.pdb
+E:\Visual Studio Projects\Graphing\ZedGraphSample\obj\Debug\Graphing.Form1.resources
+E:\Visual Studio Projects\Graphing\ZedGraphSample\obj\Debug\Graphing.Properties.Resources.resources
+E:\Visual Studio Projects\Graphing\ZedGraphSample\obj\Debug\Graphing.exe
+E:\Visual Studio Projects\Graphing\ZedGraphSample\obj\Debug\Graphing.pdb
